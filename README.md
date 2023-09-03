@@ -45,7 +45,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](./univar.png)
+![best fit line](univar.png)
 
 
 ## Result:
