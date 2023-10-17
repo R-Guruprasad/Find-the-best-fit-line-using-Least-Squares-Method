@@ -45,7 +45,8 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](univar.png)
+![image](https://github.com/R-Guruprasad/Find-the-best-fit-line-using-Least-Squares-Method/assets/119390308/0fd57ca7-dcfe-4bd0-9287-628c76f106c3)
+
 
 
 ## Result:
